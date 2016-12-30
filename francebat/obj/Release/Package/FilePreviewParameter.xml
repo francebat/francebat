@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="francebat" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^d:\\profiles\\maydogan\\documents\\visual\ studio\ 2015\\Projects\\francebat\\francebat\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^d:\\profiles\\maydogan\\documents\\visual\ studio\ 2015\\Projects\\francebat\\francebat\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="Data Source=tcp:francebatserver.database.windows.net,1433;Initial Catalog=francebatdb;User Id=francebatadminserv@francebatserver.database.windows.net;Password=260477oz@y" tags="">
+    <parameterEntry kind="XmlFile" scope="d:\\profiles\\maydogan\\documents\\visual\ studio\ 2015\\Projects\\francebat\\francebat\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+</parameters>
