@@ -58,11 +58,11 @@ namespace francebat
             //   appId: "",
             //   appSecret: "");
 
-            //app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
-            //{
-            //    ClientId = "",
-            //    ClientSecret = ""
-            //});
+            app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
+            {
+                ClientId = "846591314274-ubni0svh4gv20jn4a1l7fop1lclot4ng.apps.googleusercontent.com",
+                ClientSecret = "y4AseyFqhgpg5IufIww84nuL"
+            });
         }
     }
 }
