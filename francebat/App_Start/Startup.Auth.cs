@@ -54,9 +54,9 @@ namespace francebat
             //   consumerKey: "",
             //   consumerSecret: "");
 
-            //app.UseFacebookAuthentication(
-            //   appId: "",
-            //   appSecret: "");
+            app.UseFacebookAuthentication(
+               appId: "630356250485812",
+               appSecret: "56062cd47d953d294926797a1db8f54c");
 
             app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
             {
