@@ -50,9 +50,9 @@ namespace francebat
             //    clientId: "",
             //    clientSecret: "");
 
-            //app.UseTwitterAuthentication(
-            //   consumerKey: "",
-            //   consumerSecret: "");
+            app.UseTwitterAuthentication(
+               consumerKey: "urq849GNv7N9KrEpDqRe1iGXn",
+               consumerSecret: "Bjt4QP8ThU3xjjLm5fI8Wud3d4e77M3fbSEodjGJsgsmdW0C1l");
 
             app.UseFacebookAuthentication(
                appId: "630356250485812",
