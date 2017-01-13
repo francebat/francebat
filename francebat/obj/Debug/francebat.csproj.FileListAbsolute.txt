@@ -98,3 +98,4 @@ d:\Profiles\maydogan\documents\visual studio 2015\Projects\francebat\francebat\b
 d:\Profiles\maydogan\documents\visual studio 2015\Projects\francebat\francebat\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
 d:\Profiles\maydogan\documents\visual studio 2015\Projects\francebat\francebat\obj\Debug\francebat.dll
 d:\Profiles\maydogan\documents\visual studio 2015\Projects\francebat\francebat\obj\Debug\francebat.pdb
+d:\Profiles\maydogan\documents\visual studio 2015\Projects\francebat\francebat\obj\Debug\francebat.csprojResolveAssemblyReference.cache
